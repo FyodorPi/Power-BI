@@ -1,0 +1,121 @@
+﻿product_id,category,brand,price_rub,season,is_new
+P001,Аксессуары,StyleWear Bags,800,Всесезонный,True
+P002,Футболки,StyleWear Basics,2000,Весна-Лето,False
+P003,Обувь,StyleWear Step,7600,Осень-Зима,True
+P004,Джинсы,StyleWear Basics,4300,Всесезонный,False
+P005,Обувь,StyleWear Step,7300,Осень-Зима,True
+P006,Обувь,StyleWear Lite,3900,Весна-Лето,False
+P007,Платья,StyleWear Casual,2800,Весна-Лето,False
+P008,Платья,StyleWear Elegant,2600,Осень-Зима,True
+P009,Платья,StyleWear Casual,4900,Весна-Лето,False
+P010,Обувь,StyleWear Step,6300,Весна-Лето,False
+P011,Аксессуары,StyleWear Scarves,2600,Весна-Лето,False
+P012,Джинсы,StyleWear Basics,4700,Весна-Лето,False
+P013,Джинсы,StyleWear Premium,4600,Осень-Зима,False
+P014,Платья,StyleWear Elegant,3500,Осень-Зима,True
+P015,Платья,StyleWear Elegant,4300,Всесезонный,True
+P016,Аксессуары,StyleWear Bags,1300,Осень-Зима,False
+P017,Аксессуары,StyleWear Bags,2900,Осень-Зима,False
+P018,Джинсы,StyleWear Basics,3100,Осень-Зима,False
+P019,Джинсы,StyleWear Basics,4900,Весна-Лето,False
+P020,Верхняя одежда,StyleWear Eco,8300,Осень-Зима,True
+P021,Аксессуары,StyleWear Scarves,3100,Всесезонный,False
+P022,Обувь,StyleWear Lite,6200,Весна-Лето,False
+P023,Футболки,StyleWear x Artist,1000,Весна-Лето,False
+P024,Футболки,StyleWear Basics,2100,Всесезонный,False
+P025,Джинсы,StyleWear Premium,5300,Всесезонный,False
+P026,Обувь,StyleWear Lite,7400,Весна-Лето,False
+P027,Джинсы,StyleWear Premium,5000,Весна-Лето,True
+P028,Футболки,StyleWear x Artist,900,Всесезонный,False
+P029,Платья,StyleWear Elegant,4000,Весна-Лето,False
+P030,Платья,StyleWear Elegant,2800,Осень-Зима,False
+P031,Обувь,StyleWear Step,7700,Осень-Зима,False
+P032,Джинсы,StyleWear Premium,4800,Весна-Лето,True
+P033,Обувь,StyleWear Step,4400,Всесезонный,False
+P034,Джинсы,StyleWear Basics,3700,Всесезонный,False
+P035,Обувь,StyleWear Step,5500,Всесезонный,False
+P036,Верхняя одежда,StyleWear Urban,10800,Всесезонный,False
+P037,Аксессуары,StyleWear Scarves,2000,Всесезонный,False
+P038,Верхняя одежда,StyleWear Eco,8100,Весна-Лето,True
+P039,Платья,StyleWear Elegant,4200,Всесезонный,True
+P040,Футболки,StyleWear Basics,1000,Всесезонный,False
+P041,Футболки,StyleWear Basics,900,Осень-Зима,True
+P042,Футболки,StyleWear x Artist,1900,Осень-Зима,True
+P043,Футболки,StyleWear x Artist,1200,Осень-Зима,False
+P044,Футболки,StyleWear Basics,1000,Всесезонный,False
+P045,Верхняя одежда,StyleWear Eco,10300,Всесезонный,True
+P046,Аксессуары,StyleWear Bags,900,Осень-Зима,False
+P047,Джинсы,StyleWear Basics,4100,Весна-Лето,False
+P048,Футболки,StyleWear x Artist,1100,Осень-Зима,False
+P049,Джинсы,StyleWear Premium,6400,Весна-Лето,True
+P050,Обувь,StyleWear Step,4400,Весна-Лето,True
+P051,Верхняя одежда,StyleWear Eco,8700,Осень-Зима,False
+P052,Футболки,StyleWear x Artist,900,Осень-Зима,True
+P053,Верхняя одежда,StyleWear Eco,10100,Всесезонный,False
+P054,Обувь,StyleWear Lite,4800,Весна-Лето,True
+P055,Джинсы,StyleWear Basics,4900,Весна-Лето,True
+P056,Верхняя одежда,StyleWear Urban,7700,Всесезонный,True
+P057,Футболки,StyleWear Basics,1800,Весна-Лето,False
+P058,Футболки,StyleWear x Artist,1000,Всесезонный,True
+P059,Обувь,StyleWear Step,7800,Весна-Лето,False
+P060,Обувь,StyleWear Lite,5500,Весна-Лето,False
+P061,Платья,StyleWear Elegant,3200,Осень-Зима,True
+P062,Аксессуары,StyleWear Scarves,2200,Осень-Зима,False
+P063,Джинсы,StyleWear Basics,5800,Всесезонный,False
+P064,Джинсы,StyleWear Basics,6300,Весна-Лето,False
+P065,Футболки,StyleWear x Artist,1000,Весна-Лето,False
+P066,Футболки,StyleWear x Artist,2200,Всесезонный,False
+P067,Обувь,StyleWear Step,7400,Осень-Зима,False
+P068,Джинсы,StyleWear Basics,4500,Весна-Лето,False
+P069,Аксессуары,StyleWear Bags,1600,Осень-Зима,False
+P070,Аксессуары,StyleWear Scarves,1400,Всесезонный,False
+P071,Платья,StyleWear Casual,3200,Весна-Лето,True
+P072,Верхняя одежда,StyleWear Eco,7600,Весна-Лето,False
+P073,Футболки,StyleWear x Artist,1100,Всесезонный,False
+P074,Аксессуары,StyleWear Scarves,2500,Весна-Лето,True
+P075,Аксессуары,StyleWear Bags,2500,Весна-Лето,False
+P076,Обувь,StyleWear Step,6600,Весна-Лето,True
+P077,Платья,StyleWear Elegant,5200,Осень-Зима,True
+P078,Футболки,StyleWear Basics,1400,Всесезонный,False
+P079,Верхняя одежда,StyleWear Urban,8900,Весна-Лето,False
+P080,Футболки,StyleWear x Artist,900,Весна-Лето,False
+P081,Платья,StyleWear Casual,4900,Всесезонный,False
+P082,Футболки,StyleWear x Artist,1100,Всесезонный,True
+P083,Джинсы,StyleWear Premium,4300,Весна-Лето,False
+P084,Верхняя одежда,StyleWear Eco,9300,Весна-Лето,True
+P085,Аксессуары,StyleWear Bags,2000,Осень-Зима,True
+P086,Джинсы,StyleWear Premium,5100,Всесезонный,False
+P087,Аксессуары,StyleWear Scarves,800,Весна-Лето,False
+P088,Платья,StyleWear Elegant,4200,Осень-Зима,True
+P089,Обувь,StyleWear Lite,6100,Всесезонный,False
+P090,Верхняя одежда,StyleWear Urban,9800,Всесезонный,True
+P091,Джинсы,StyleWear Premium,2900,Всесезонный,False
+P092,Обувь,StyleWear Step,6200,Осень-Зима,True
+P093,Аксессуары,StyleWear Scarves,2700,Осень-Зима,False
+P094,Джинсы,StyleWear Premium,6100,Осень-Зима,False
+P095,Платья,StyleWear Casual,4600,Осень-Зима,False
+P096,Футболки,StyleWear x Artist,1900,Осень-Зима,False
+P097,Футболки,StyleWear x Artist,1500,Всесезонный,False
+P098,Платья,StyleWear Casual,3000,Осень-Зима,False
+P099,Обувь,StyleWear Lite,6800,Осень-Зима,False
+P100,Футболки,StyleWear x Artist,2100,Всесезонный,True
+P101,Джинсы,StyleWear Premium,6100,Всесезонный,False
+P102,Платья,StyleWear Elegant,5000,Весна-Лето,False
+P103,Футболки,StyleWear Basics,1100,Весна-Лето,True
+P104,Верхняя одежда,StyleWear Urban,10300,Осень-Зима,False
+P105,Обувь,StyleWear Step,6300,Осень-Зима,False
+P106,Футболки,StyleWear Basics,2100,Весна-Лето,False
+P107,Футболки,StyleWear Basics,2100,Всесезонный,False
+P108,Джинсы,StyleWear Basics,3600,Осень-Зима,True
+P109,Верхняя одежда,StyleWear Eco,12200,Осень-Зима,False
+P110,Аксессуары,StyleWear Scarves,3400,Всесезонный,False
+P111,Футболки,StyleWear x Artist,1600,Осень-Зима,False
+P112,Аксессуары,StyleWear Scarves,3200,Всесезонный,False
+P113,Футболки,StyleWear x Artist,1600,Весна-Лето,False
+P114,Футболки,StyleWear x Artist,1400,Осень-Зима,False
+P115,Джинсы,StyleWear Basics,3800,Весна-Лето,False
+P116,Футболки,StyleWear Basics,1000,Осень-Зима,False
+P117,Обувь,StyleWear Lite,6500,Весна-Лето,True
+P118,Верхняя одежда,StyleWear Eco,12300,Всесезонный,False
+P119,Джинсы,StyleWear Premium,5900,Весна-Лето,False
+P120,Платья,StyleWear Casual,5100,Осень-Зима,False
